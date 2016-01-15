@@ -61,9 +61,3 @@ EXIT TRAP #14
 MATRIX  DC.B 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
 
     END    START        ; last line of source
-
-
-*~Font name~Courier New~
-*~Font size~10~
-*~Tab type~1~
-*~Tab size~4~
